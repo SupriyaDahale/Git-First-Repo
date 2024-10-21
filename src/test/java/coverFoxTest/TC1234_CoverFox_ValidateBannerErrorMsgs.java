@@ -103,6 +103,7 @@ public class TC1234_CoverFox_ValidateBannerErrorMsgs extends Base
 	  String expectedMobErrorMsg = Utility.readDataFromExcel(excelpath,sheetName,0, 4);
 	  Assert.assertEquals(actualMobErrorMsg,expectedMobErrorMsg,"Error msg not matching,TC failed");
 	  Reporter.log("My Name is supriya",true);
+	  Reporter.log("Hi This is Amruta",true);
   }
   //logout from Application
   //Close browser/Close an Application
