@@ -105,6 +105,8 @@ public class TC1234_CoverFox_ValidateBannerErrorMsgs extends Base
 	  Reporter.log("My Name is supriya",true);
 	  Reporter.log("Hi This is Amruta",true);
 	  Reporter.log("Hi This is Supriya Dahale",true);
+	  Reporter.log("now create branch",true);
+	  
 	  
   }
   //logout from Application
