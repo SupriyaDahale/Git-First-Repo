@@ -7,6 +7,7 @@ import java.io.IOException;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -101,6 +102,7 @@ public class TC1234_CoverFox_ValidateBannerErrorMsgs extends Base
 	  String actualMobErrorMsg = addressDetailPage.mobErrMsg();
 	  String expectedMobErrorMsg = Utility.readDataFromExcel(excelpath,sheetName,0, 4);
 	  Assert.assertEquals(actualMobErrorMsg,expectedMobErrorMsg,"Error msg not matching,TC failed");
+	  Reporter.log("My Name is supriya",true);
   }
   //logout from Application
   //Close browser/Close an Application

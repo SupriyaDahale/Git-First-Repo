@@ -82,3 +82,132 @@
 2024-10-15 13:55:50,318 - 8th_june_coverfox -INFO - Clicking on continue button
 2024-10-15 13:55:50,318 - 8th_june_coverfox -ERROR - please check detail again
 2024-10-15 13:55:54,921 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 15:34:47,151 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 15:35:03,402 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 15:35:06,224 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 15:35:37,609 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 15:35:37,878 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 15:35:39,889 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 15:35:40,990 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 15:35:40,992 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 15:35:41,499 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 15:35:41,840 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 15:35:41,842 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 15:35:46,460 - 8th_june_coverfox -INFO - Validating Result
+2024-10-18 15:35:50,294 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 15:36:31,344 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 15:36:34,563 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 15:36:36,757 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 15:36:50,975 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 15:36:51,097 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 15:36:53,101 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 15:36:53,605 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 15:36:53,766 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 15:36:53,958 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 15:37:02,490 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 15:37:40,419 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 15:37:52,040 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 15:38:15,484 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 15:38:19,922 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 15:38:20,375 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 15:38:22,388 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 15:38:22,932 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 15:38:23,040 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 15:38:23,041 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 15:38:39,425 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 16:22:43,472 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 16:23:13,615 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 16:23:16,188 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 16:23:50,584 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 16:23:50,784 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 16:23:52,796 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 16:24:02,246 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 16:24:02,247 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 16:24:02,777 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 16:24:02,909 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 16:24:02,910 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 16:24:07,108 - 8th_june_coverfox -INFO - Validating Result
+2024-10-18 16:24:16,370 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 16:24:55,799 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 16:24:59,431 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 16:25:05,071 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 16:25:11,641 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 16:25:11,758 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 16:25:13,775 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 16:25:14,088 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 16:25:14,195 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 16:25:14,196 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 16:25:21,890 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 16:25:52,554 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 16:25:53,704 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 16:25:55,940 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 16:25:58,304 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 16:26:03,387 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 16:26:05,391 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 16:26:06,073 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 16:26:06,181 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 16:26:06,182 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 16:26:13,032 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 17:08:20,194 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:08:25,891 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 17:08:28,008 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:08:49,860 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 17:08:49,959 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:08:51,975 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 17:08:52,604 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 17:08:52,630 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 17:08:52,931 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 17:08:53,044 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 17:08:53,046 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 17:08:57,236 - 8th_june_coverfox -INFO - Validating Result
+2024-10-18 17:09:00,084 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 17:09:32,499 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:09:33,684 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 17:09:36,908 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:09:41,236 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 17:09:41,348 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:09:43,358 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 17:09:43,617 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 17:09:43,724 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 17:09:43,725 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 17:09:48,945 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 17:37:59,399 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:38:55,685 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 17:38:57,884 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:39:12,543 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 17:39:12,709 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:39:14,722 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 17:39:57,381 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:42:39,540 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:42:41,631 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 17:42:43,781 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:42:50,221 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 17:42:50,334 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:42:52,343 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 17:42:52,938 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 17:42:52,940 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 17:42:53,148 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 17:42:53,256 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 17:42:53,259 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 17:42:57,375 - 8th_june_coverfox -INFO - Validating Result
+2024-10-18 17:42:58,571 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 17:43:15,213 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:43:17,014 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 17:43:19,281 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:43:27,399 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 17:43:27,561 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:43:29,591 - 8th_june_coverfox -WARN - enter valid pinCode
+2024-10-18 17:43:30,239 - 8th_june_coverfox -INFO - Enter pinCode
+2024-10-18 17:43:30,394 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 17:43:30,399 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 17:43:38,355 - 8th_june_coverfox -INFO - Closing Browser
+2024-10-18 17:44:04,180 - 8th_june_coverfox -INFO - opening Browser
+2024-10-18 17:44:06,923 - 8th_june_coverfox -INFO - Clicking on gender button
+2024-10-18 17:44:09,268 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:44:17,356 - 8th_june_coverfox -INFO - Handeling age dropdown
+2024-10-18 17:44:17,512 - 8th_june_coverfox -INFO - Clicking on next button
+2024-10-18 17:44:19,524 - 8th_june_coverfox -WARN - enter valid MobNum
+2024-10-18 17:44:19,939 - 8th_june_coverfox -INFO - Enter MobNum
+2024-10-18 17:44:20,066 - 8th_june_coverfox -INFO - Clicking on continue button
+2024-10-18 17:44:20,068 - 8th_june_coverfox -ERROR - please check detail again
+2024-10-18 17:44:27,246 - 8th_june_coverfox -INFO - Closing Browser
